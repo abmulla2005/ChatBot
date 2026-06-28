@@ -6,6 +6,16 @@ langchain-core
 langchain-community
 langgraph
 langgraph-checkpoint
+streamlit
+langgraph
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
+langchain
+langchain-core
+langchain-openai
+langchain-groq
+python-dotenv
+aiosqlite
 
 # LLM Providers
 langchain-openai
