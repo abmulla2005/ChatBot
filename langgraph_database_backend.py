@@ -32,7 +32,7 @@ if not api_key:
 # LLM
 # ----------------------------------------------------
 llm = ChatOpenAI(
-    model="meta-llama/llama-3.3-70b-instruct:free",
+    model="openai/gpt-oss-120b:free",
     base_url="https://openrouter.ai/api/v1",
     api_key=api_key,
     temperature=0.7,
